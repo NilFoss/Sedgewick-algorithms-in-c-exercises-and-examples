@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/mrun/iCloud 云盘（归档）/Documents/C/Sedgewick-algorithms-in-c-exercises-and-examples/07-quicksort/7.03-stack_size/examples/prog_7.3-nonrecursive_quicksort"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/mrun/iCloud 云盘（归档）/Documents/C/Sedgewick-algorithms-in-c-exercises-and-examples/07-quicksort/7.03-stack_size/examples/prog_7.3-nonrecursive_quicksort/cmake-build-debug

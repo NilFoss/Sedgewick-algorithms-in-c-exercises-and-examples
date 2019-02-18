@@ -9,7 +9,7 @@ int last_item(link *t)
   return t->item;
 }
 
-int main(void) 
+int main(void)
 {
   link *t, *head;
   struct node *d = NULL;
@@ -21,28 +21,27 @@ int main(void)
   max = t->item;
   t = t->next;
   while (t != NULL)
-    {
-      if (t->item > max)
-	max = t->item;
-      t = t->next;
-    }
+  {
+    if (t->item > max)
+      max = t->item;
+    t = t->next;
+  }
   t = head;
   if (max != last_item(t))
+  {
+    while (t->next != NULL)
     {
-      while (t->next != NULL)
-	{
-	  if (t->next->item == max)
-	    {
-	      d = t->next;
-	      not_last = 0;
-	      t->next = d->next;
-	      d->next = NULL;
-	    }
-	  t = t->next;
-	}
-      t->next = d;
+      if (t->next->item == max)
+      {
+        d = t->next;
+        not_last = 0;
+        t->next = d->next;
+        d->next = NULL;
+      }
+      t = t->next;
     }
+    t->next = d;
+  }
   print_list(head);
   return 0;
 }
-

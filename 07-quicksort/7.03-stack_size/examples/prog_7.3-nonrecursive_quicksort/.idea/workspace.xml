@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="nonrecursive_quicksort" targetName="nonrecursive_quicksort" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a09c2639-4859-48ce-91db-54a259a87eaa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../03-elementary_data_structures/3.04-elementary_list_processing/examples/prog_3.11-list_insertion_sort.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../03-elementary_data_structures/3.04-elementary_list_processing/examples/prog_3.11-list_insertion_sort.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../03-elementary_data_structures/3.04-elementary_list_processing/exercises/ex_3.34/list_functions.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../03-elementary_data_structures/3.04-elementary_list_processing/exercises/ex_3.34/list_functions.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../03-elementary_data_structures/3.04-elementary_list_processing/exercises/ex_3.34/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../03-elementary_data_structures/3.04-elementary_list_processing/exercises/ex_3.34/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../03-elementary_data_structures/3.04-elementary_list_processing/exercises/ex_3.35/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../03-elementary_data_structures/3.04-elementary_list_processing/exercises/ex_3.35/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../03-elementary_data_structures/3.04-elementary_list_processing/exercises/ex_3.39/list_functions.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../03-elementary_data_structures/3.04-elementary_list_processing/exercises/ex_3.39/list_functions.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../03-elementary_data_structures/3.04-elementary_list_processing/exercises/ex_3.39/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../03-elementary_data_structures/3.04-elementary_list_processing/exercises/ex_3.39/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../06-elementary_sorting_methods/6.03-insertion_sort/examples/prog-6.3-insetrion_sort.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../06-elementary_sorting_methods/6.03-insertion_sort/examples/prog-6.3-insetrion_sort.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../06-elementary_sorting_methods/6.06-shell_sort/examples/prog-6.5-shellsort.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../06-elementary_sorting_methods/6.06-shell_sort/examples/prog-6.5-shellsort.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7.01-the_basic_algorithm/examples/prog_7.1-7.2-quicksort.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../7.01-the_basic_algorithm/examples/prog_7.1-7.2-quicksort.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../7.08-selection/examples/prog_7.6-selection.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../7.08-selection/examples/prog_7.6-selection.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../08-merging_and_mergesort/8.01-two_way_merging/examples/prog_8.1-merging.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../08-merging_and_mergesort/8.01-two_way_merging/examples/prog_8.1-merging.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../08-merging_and_mergesort/8.02-abstract_in_place-merge/examples/prog_8.2-abstract_in_place_merge.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../08-merging_and_mergesort/8.02-abstract_in_place-merge/examples/prog_8.2-abstract_in_place_merge.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../08-merging_and_mergesort/8.04-improvements_to_the_basic_algorithm/examples/prog_8.4-mergesort_with_no_copying.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../08-merging_and_mergesort/8.04-improvements_to_the_basic_algorithm/examples/prog_8.4-mergesort_with_no_copying.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../08-merging_and_mergesort/8.05-bottom-up-mergesort/examples/prog_8.5-bottom_up_mergesort.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../08-merging_and_mergesort/8.05-bottom-up-mergesort/examples/prog_8.5-bottom_up_mergesort.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../08-merging_and_mergesort/8.07-linked_list_implementations_of_mergesort/examples/prog_8.6-8.7-linked_list_merge/list.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../08-merging_and_mergesort/8.07-linked_list_implementations_of_mergesort/examples/prog_8.6-8.7-linked_list_merge/list.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../08-merging_and_mergesort/8.07-linked_list_implementations_of_mergesort/examples/prog_8.6-8.7-linked_list_merge/list.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../08-merging_and_mergesort/8.07-linked_list_implementations_of_mergesort/examples/prog_8.6-8.7-linked_list_merge/list.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../08-merging_and_mergesort/8.07-linked_list_implementations_of_mergesort/examples/prog_8.6-8.7-linked_list_merge/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../08-merging_and_mergesort/8.07-linked_list_implementations_of_mergesort/examples/prog_8.6-8.7-linked_list_merge/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../09-priority_queues_and_heapsort/9.03-algorithms_on_heaps/prog_9.3-9.5-heap_based_priority_queue/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../09-priority_queues_and_heapsort/9.03-algorithms_on_heaps/prog_9.3-9.5-heap_based_priority_queue/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../09-priority_queues_and_heapsort/9.07-binomial_queues/pqbinomial.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../09-priority_queues_and_heapsort/9.07-binomial_queues/pqbinomial.c" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="326113377">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Makefile" value="1" />
+          <entry key="c" value="1" />
+          <entry key="txt" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="3" />
+          <entry key="ObjectiveC" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="txt" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CMakeLists.txt" value="23" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="nonrecursive_quicksort" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prog_7.3-nonrecursive_quicksort" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.nonrecursive_quicksort">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nonrecursive_quicksort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="nonrecursive_quicksort" TARGET_NAME="nonrecursive_quicksort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="nonrecursive_quicksort" RUN_TARGET_NAME="nonrecursive_quicksort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.nonrecursive_quicksort" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a09c2639-4859-48ce-91db-54a259a87eaa" name="Default Changelist" comment="" />
+      <created>1542813268086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542813268086</updated>
+      <workItem from="1542813269634" duration="823000" />
+      <workItem from="1546744076603" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="858000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Messages" order="8" visible="true" weight="0.329927" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

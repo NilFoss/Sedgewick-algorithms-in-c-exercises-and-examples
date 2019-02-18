@@ -9,7 +9,7 @@ struct node
   link next;
 };
 
-link new(Item, link);
+link new (Item, link);
 link init(int);
 void print_list(link);
 

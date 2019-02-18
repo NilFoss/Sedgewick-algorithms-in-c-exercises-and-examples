@@ -8,30 +8,30 @@ link *new_node(int n)
 
   t = malloc(sizeof(link));
   if (t != NULL)
-    {
-      t->item = n;
-      t->next = NULL;
-    }
+  {
+    t->item = n;
+    t->next = NULL;
+  }
   return t;
 }
 
 void delete_node(link *l, link *t)
 {
   link *head = l;
-  
+
   if (t->next == NULL)
-    {
-      while (l->next->next != NULL)
-	l = l->next;
-      l->next = NULL;
-    }
+  {
+    while (l->next->next != NULL)
+      l = l->next;
+    l->next = NULL;
+  }
   else
     while (l->next != NULL)
-	if (l->next == t)
-	  {
-	    l->next = t->next;
-	    break;
-	  }
+      if (l->next == t)
+      {
+        l->next = t->next;
+        break;
+      }
 }
 link *new_list()
 {
@@ -40,20 +40,20 @@ link *new_list()
 
   printf("Enter list members: ");
   while (!feof(stdin))
+  {
+    scanf("%d ", &n);
+    new = new_node(n);
+    if (t == NULL)
     {
-      scanf("%d ",&n);
-      new = new_node(n);
-      if (t == NULL)
-	{
-	  t = new;
-	  head = t;
-	}
-      else
-	{
-	  t->next = new;
-	  t = t->next;
-	}
+      t = new;
+      head = t;
     }
+    else
+    {
+      t->next = new;
+      t = t->next;
+    }
+  }
   printf("\n");
   return head;
 }
@@ -61,9 +61,9 @@ link *new_list()
 void print_list(link *t)
 {
   while (t != NULL)
-    {
-      printf("%d ", t->item);
-      t = t->next;
-    }
+  {
+    printf("%d ", t->item);
+    t = t->next;
+  }
   printf("\n");
 }

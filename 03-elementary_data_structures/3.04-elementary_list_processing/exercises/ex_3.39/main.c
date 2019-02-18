@@ -6,26 +6,26 @@ int func(link *t)
 {
   if (t->item % 2)
     return 0;
-  else return 1;
+  else
+    return 1;
 }
 
-link *remove_items(int (*f)(link*), link *t)
+link *remove_items(int (*f)(link *), link *t)
 {
   link *head = t;
 
   while (t != NULL)
-    {
-      if (!(f(head)))
-	head = t->next;
-      else
-	if (!(f(t)))
-	  delete_node(head, t);
-      t = t->next;
-    }
+  {
+    if (!(f(head)))
+      head = t->next;
+    else if (!(f(t)))
+      delete_node(head, t);
+    t = t->next;
+  }
   return head;
 }
 
-int main(void) 
+int main(void)
 {
   link *t;
 
@@ -35,4 +35,3 @@ int main(void)
   print_list(t);
   return 0;
 }
-

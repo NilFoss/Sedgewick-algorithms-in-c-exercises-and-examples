@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mrun/Documents/C/Sedgewick-algorithms-in-c-exercises-and-examples/03-elementary_data_structures/3.04-elementary_list_processing/exercises/ex_3.34/list.h
+
+/Users/mrun/Documents/C/Sedgewick-algorithms-in-c-exercises-and-examples/03-elementary_data_structures/3.04-elementary_list_processing/exercises/ex_3.34/list_functions.c
+stdio.h
+-
+stdlib.h
+-
+list.h
+/Users/mrun/Documents/C/Sedgewick-algorithms-in-c-exercises-and-examples/03-elementary_data_structures/3.04-elementary_list_processing/exercises/ex_3.34/list.h
+
+/Users/mrun/Documents/C/Sedgewick-algorithms-in-c-exercises-and-examples/03-elementary_data_structures/3.04-elementary_list_processing/exercises/ex_3.34/main.c
+stdio.h
+-
+stdlib.h
+-
+list.h
+/Users/mrun/Documents/C/Sedgewick-algorithms-in-c-exercises-and-examples/03-elementary_data_structures/3.04-elementary_list_processing/exercises/ex_3.34/list.h
+
